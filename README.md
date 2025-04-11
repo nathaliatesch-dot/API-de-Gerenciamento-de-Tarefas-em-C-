@@ -48,7 +48,7 @@ TaskManagerAPI/ ├── Application/ # Camada de serviços e interfaces ├─
 ```json
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=TaskManagerDb;Trusted_Connection=True;"
-}
+}```
 
 3.Rode o comando para aplicar as migrações e criar o banco:
 cd Presentation/TaskManagerAPI
