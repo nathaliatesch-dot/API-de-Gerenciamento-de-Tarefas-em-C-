@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build / bin / obj
+bin/
+obj/
+out/
+
+# Sistema
+*.log
+*.DS_Store
+Thumbs.db
+
+# Node (caso tenha frontend React)
+node_modules/
