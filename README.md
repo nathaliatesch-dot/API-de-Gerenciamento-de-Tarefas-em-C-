@@ -45,10 +45,8 @@ TaskManagerAPI/ ├── Application/ # Camada de serviços e interfaces ├─
 1. Abra o projeto no Visual Studio.
 2. Verifique o `appsettings.json` e configure sua connection string para o SQL Server, exemplo:
 
-```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Database=TaskManagerDb;Trusted_Connection=True;"
-}```
+  "DefaultConnection": "Server=localhost;Database=TaskManagerDb;Trusted_Connection=True;"}
 
 3.Rode o comando para aplicar as migrações e criar o banco:
 cd Presentation/TaskManagerAPI
