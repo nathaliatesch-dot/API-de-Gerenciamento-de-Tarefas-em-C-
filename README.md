@@ -83,6 +83,5 @@ Funcionalidades
 -Integração total com API em ASP.NET
 -------------
 
-👨‍💻 Autor
 Desenvolvido por Nathália Tesch 
 📧 nathtesch@gmail.com
